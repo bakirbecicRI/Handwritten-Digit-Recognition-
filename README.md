@@ -43,7 +43,7 @@ multiple classes).
 
 -   Example prediction on a custom image (`test1.png`):
 
-![test1](https://raw.githubusercontent.com/username/mnist-digit-recognition/main/test1.png)
+![test1](https://github.com/bakirbecicRI/Handwritten-Digit-Recognition-/blob/d2ef70532b7677d7834518d1718a2d86cf116c13/test1.png)
 
     Model predicts digit: 1
 

@@ -17,8 +17,8 @@ multiple classes).
 1.  Clone the repository:
 
     ``` bash
-    git clone https://github.com/username/mnist-digit-recognition.git
-    cd mnist-digit-recognition
+    git clone https://github.com/bakirbecicRI/Handwritten-Digit-Recognition.git
+    cd Handwritten-Digit-Recognition
     ```
 
 2.  Install the required packages:

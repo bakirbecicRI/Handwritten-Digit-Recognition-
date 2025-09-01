@@ -39,7 +39,7 @@ multiple classes).
     (simple softmax model).\
 -   Visualization of some training samples:
 
-![samples](https://raw.githubusercontent.com/username/mnist-digit-recognition/main/samples.png)
+![samples](https://github.com/bakirbecicRI/Handwritten-Digit-Recognition-/blob/b00dfd7d63e3ca0f601af2ca400fdb92ae56c09e/samples.PNG)
 
 -   Example prediction on a custom image (`test1.png`):
 
